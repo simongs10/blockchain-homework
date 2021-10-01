@@ -11,3 +11,45 @@ There are three types of blockchains:
 For this blockchain walkthrough we have developed a POA blockchain which is a reputation-consensus algorithim in which the model relieas on a limited number of block validaotrs that act as 
 moderators to verify the newest blocks and transactions.
 
+Steps in creating a POA blockchain and running a test transaction are detailed below.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Steps require Git Bash running (for Windows) 
+
+1. Node account creation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
